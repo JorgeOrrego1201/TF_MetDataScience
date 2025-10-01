@@ -12,4 +12,4 @@ El objetivo principal del proyecto es el incrementar el número de suscriptores 
 
 ## Roles 
 
-Como el trabajo es de solo un integrante, este tendrá que ejercer los roles de Data Engineer para la preparación de los datos junto al de Data Scientist para el análisis avanzado de los datos y la creación del modelo de Machine Learning para la recomendación personalizada de canciones. 
+Como el trabajo es de solo un integrante, este tendrá que ejercer los roles de Data Engineer para la preparación de los datos junto al de Data Scientist para el análisis avanzado de los datos y la creación del modelo de Machine Learning. 
